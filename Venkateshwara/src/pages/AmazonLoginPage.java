@@ -58,9 +58,9 @@ public void clickSrtBy() {
 }
 public void clickOnSelectedItem()
 {
-	selectPrice.click(); 
+	//selectPrice.click(); 
 	
-
+selectPrice.click();
 }
 /*public void SelectSecondOpt() {
 	Select s=new Select(SlctSecOpt);
